@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
         initUI()
         initListeners()
     }
+
+    fun initComponents(){}
+    fun initUI(){}
+    fun initListeners(){}
 }

@@ -28,6 +28,11 @@
             style="@style/listadoSubtittle"
             android:text="@string/categories"/>
 
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvcategories"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
