@@ -1,0 +1,7 @@
+<resources>
+    <!-- CUSTOM -->
+    <string name="categories">categorias</string>
+
+    <!-- DEFAULT -->
+    <string name="app_name">listados</string>
+</resources>
