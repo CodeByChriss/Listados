@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="listado_title">#6201eb</color>
+    <color name="listado_subtitle">#812BFF</color>
 
     <!-- DEFAULT -->
     <color name="black">#FF000000</color>
