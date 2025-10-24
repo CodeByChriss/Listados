@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="listado_title">#6201eb</color>
-    <color name="listado_subtitle">#812BFF</color>
 
-    <!-- DEFAULT -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Listado -->
+    <color name="listado_background">#FFBB86FC</color>
+    <color name="listado_title">#FF6200EE</color>
+    <color name="listado_description">#FF3700B3</color>
+    <color name="listado_teal_200">#FF03DAC5</color>
+    <color name="listado_teal_700">#FF018786</color>
+    <color name="listado_black">#FF000000</color>
+    <color name="listado_white">#FFFFFFFF</color>
+    <color name="listado_futbol_category">#3F6234</color>
+    <color name="listado_rugby_category">#4E371D</color>
+    <color name="listado_tennis_category">#FFEB3B</color>
+    <color name="listado_substitle_text">#D0417A</color>
+    <color name="listado_tasks">#2052C5</color>
+    <color name="listado_accent">#C614D9</color>
+    <color name="listado_other_category">#37AD16</color>
 </resources>

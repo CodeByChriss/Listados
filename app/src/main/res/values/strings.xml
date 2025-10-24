@@ -1,7 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- CUSTOM -->
-    <string name="categories">categorias</string>
-
-    <!-- DEFAULT -->
-    <string name="app_name">listados</string>
+    <!-- Aplicacion Listado -->
+    <string name="app_name">ListadoPractice</string>
+    <string name="listadp_app">Aplicación de listas</string>
+    <string name="listado_categories">categorías</string>
+    <string name="listado_tasks">tareas</string>
+    <string name="listado_dialog_add_task">introduce la tarea</string>
+    <string name="listado_futbol">Fútbol</string>
+    <string name="listado_rugby">Rugby</string>
+    <string name="listado_tennis">Tennis</string>
+    <string name="listado_btn_add_task">crear tarea</string>
 </resources>
